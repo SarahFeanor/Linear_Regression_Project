@@ -4,13 +4,13 @@
 
 ## **Projeto** - **Regressão Linear - Previsão das Variações das Ações da Google** 
 
-[PROJETO (COLAB)](https://github.com/SarahFeanor/Churn_Prediction_Project/blob/main/Churn_Prediction.ipynb)
+[PROJETO (COLAB)](https://github.com/SarahFeanor/Linear_Regression_Project/blob/main/A%C3%A7%C3%B5es_do_Google_com_Regress%C3%A3o_Linear.ipynb)
 
 Bem-vindos(as). Este repositório foi criado com o propósito de estudo. Vale ressaltar que todos os dados são exclusivamente para fins de demonstração, garantindo total privacidade e conformidade ética.
 
 <p align="center">
   <a href="https://github.com/SarahFeanor?tab=repositories">
-    <img src="https://cdn.discordapp.com/attachments/1063559719291199599/1202653476228960306/download.jpg?ex=65ce3d54&is=65bbc854&hm=7c1cf49f358872342bf602e94c3ec8c85c0013939848c33a5d8da859ced3e92e&" alt="capa" width="600" height="300">
+    <img src="https://cdn.discordapp.com/attachments/1063559719291199599/1202669776250605618/download_1.jpg?ex=65ce4c83&is=65bbd783&hm=16ff3fe5453d16b22a128cfddc89cfc10388c6fc21db4b9eae05c85101822ece&" alt="capa" width="600" height="300">
   </a>
 </p> <p align="center"> <sup> Foto de Imagge </sup> </p>
 
