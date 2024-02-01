@@ -14,7 +14,7 @@ Bem-vindos(as). Este repositório foi criado com o propósito de estudo. Vale re
   </a>
 </p> <p align="center"> <sup> Foto de Imagge </sup> </p>
 
-## **Previsão das Variações das Ações da Google Utilizando a Regressão Linear para Maximizar Investimentos **
+## **Previsão das Variações das Ações da Google Utilizando a Regressão Linear para Maximizar Investimentos**
 
 📊 Neste projeto, propomos empregar técnicas avançadas de análise, especificamente a **regressão linear**, para realizar **previsões** precisas das variações nas ações da **Google**. O principal propósito é auxiliar investidores a tomar decisões informadas e maximizar seus retornos financeiros. Ao aplicar a regressão linear aos dados históricos das ações da **Google**, iremos modelar as tendências e os padrões que podem influenciar os movimentos futuros do mercado.
 
