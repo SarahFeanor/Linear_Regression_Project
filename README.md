@@ -2,7 +2,7 @@
 
 <sub> 📂 Projeto - Data Science - Sarah F. Rezende
 
-## **Projeto** - ** Regressão Linear - Previsão das Variações das Ações da Google** 
+## **Projeto** - **Regressão Linear - Previsão das Variações das Ações da Google** 
 
 [PROJETO (COLAB)](https://github.com/SarahFeanor/Churn_Prediction_Project/blob/main/Churn_Prediction.ipynb)
 
